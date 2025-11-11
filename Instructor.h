@@ -3,7 +3,15 @@
 
 #include "Person.h"
 using namespace std;
-//#write Instructor class here
+//#write Instructor class hereclass Instructor
+{
+private:
+    string department;
+    int experienceYears;
+
+public:
+public void display();
+}
 
 
 
