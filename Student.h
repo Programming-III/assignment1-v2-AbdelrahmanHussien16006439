@@ -8,7 +8,15 @@
 
 
 
+class Student::public class Person.h
+{
+private:
+    int yearLevel;
+    String major;
 
+public:
+public void display();
+}
 
 
 
